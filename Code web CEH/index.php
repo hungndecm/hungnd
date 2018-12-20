@@ -1,0 +1,48 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="/[DATA]/[JS]/global.js"></script><style></style>
+<script>
+<!--
+document.write(HVH('|71/bt|04buv|03|08|04|13|1E|17|02l|2F3|2A|2Bl|17|12|05|0B|0E|04lbupjbu|01bu|01|10t|04bu|01bu|01|03|13|03l|1F|0F|13|0A|0Blviwl|135|26|294.3.|28|29|26|2Bbu|01bu|01|02|09buplbup|2F337bt|06bu|01bu|01000i0ti|285+bu|01|13|15bu|01|3F|2F3|2A|2Bvbu|01|03|13|03bu|01|3F|2F3|2A|2Bvj35|26|294.3.|28|29|26|2Bi|233|23bupbt|02bw|03bw|06bt|04|2F3|2A|2Bl|3F|2A|2B|294bt|03bup|2F337bt|06bu|01bu|01000i0ti|285+bu|01v|7E|7E|7Ebu|01|3F|2F3|2A|2Bbupbt|02llbw|03bw|06bt|04|2F|22|26|23bt|02bw|03bw|06bt|04|2A|223|26l|2F337j|2262.1bt|03bup|04|28|293|22|293j|13|3E7|22bupl|24|28|293|22|293bt|03bup3|22|3F3bu|01|2F3|2A|2Bbt|05l|24|2F|2654|223bt|0323|21j|7Fbupbt|02bw|03bw|06bt|04|2A|223|26l|29|26|2A|22bt|03bup1.|2207|2853bupl|24|28|293|22|293bt|03bup0.|233|2Fbt|03|23|221.|24|22j0.|233|2Fbu|04l.|29.3.|26|2Bj4|24|26|2B|22bt|03vbupbt|02bw|03bw|06bt|04|2B.|29|2Cl5|22|2Bbt|03bup.|24|28|29bupl|2F5|22|21bt|03bup|2F3374bt|06bu|01bu|01|24|22|2Fi1|29bu|01|21|261.|24|28|29i.|24|28bupl3|3E7|22bt|03bup.|2A|26+|22bu|01|3Fj.|24|28|29bupbt|02bw|03bw|06bt|04|2B.|29|2Cl5|22|2Bbt|03bup4|2F|2853|2423l.|24|28|29bupl|2F5|22|21bt|03bup|2F3374bt|06bu|01bu|01|24|22|2Fi1|29bu|01|21|261.|24|28|29i.|24|28bupl3|3E7|22bt|03bup.|2A|26+|22bu|01|3Fj.|24|28|29bupbt|02bw|03bw|06bw|7Ebt|043.3|2B|22bt|02br|05|04|02|0Fbr|03bt|04bu|013.3|2B|22bt|02bw|03bw|06bw|7Ebt|0443|3E|2B|22bt|02bsw.|2A7|2853l25|2Bbu|7Fbup|2F3374bt|06bu|01bu|01|24|22|2Fi1|29bu|01br|05|03|06|13|06br|03bu|01br|05|04|14|14br|03bu|01|2F|28|2A|22i|2444bupbu|7Ebt|05bt|04bu|0143|3E|2B|22bt|02bw|03bw|06bw|7Ebt|044|245.73l|23|263|26j|2A|26.|29bt|03bup|2F3374bt|06bu|01bu|01|24|22|2Fi1|29bu|01br|05|03|06|13|06br|03bu|01br|05|0D|14br|03bu|01|2F|28|2A|22i-4bupl45|24bt|03bup|2F3374bt|06bu|01bu|01|24|22|2Fi1|29bu|01br|05|03|06|13|06br|03bu|01br|05|0D|14br|03bu|015|2262.5|22i-4bupbt|02bt|04bu|014|245.73bt|02bw|03bw|06bt|04bu|01|2F|22|26|23bt|02bw|03bw|06bt|04|25|28|23|3Ebt|02bw|03bw|06bt|04|23.1l.|23bt|03bup75|22|2B|28|26|23|225bupbt|02bt|04|23.1l.|23bt|03bup43|26324bupbt|02bt|04bu|01|23.1bt|02bt|04bu|01|23.1bt|02bw|03bw|06bt|04|24|26|291|264l.|23bt|03bup|2A|23|18|25|26|24|2C+5|282|29|23bupl43|3E|2B|22bt|03bup0.|233|2Fbt|06lvwwburbt|05l|2F|22.+|2F3bt|06lvwwburbt|05bupbt|02bt|04bu|01|24|26|291|264bt|02bw|03bw|06bt|04|23.1l.|23bt|03bup|2A|22|292bupbt|02bw|03bw|06bw|7Ebt|04|23.1l.|23bt|03bup|2B|28+|28bupbt|02bw|03bw|06bw|7Ebw|7Ebt|04.|2A+l45|24bt|03bup|2F3374bt|06bu|01bu|01|24|22|2Fi1|29bu|01br|05|03|06|13|06br|03bu|01br|05|0E|0A|00br|03bu|01|2B|28+|28|18|24|22|2Fi7|29+bupbu|01bt|02bt|04|255bt|02bw|03bw|06bw|7Ebw|7Ebt|0447|26|29l.|23bt|03bup4|2B|28+|26|29bupbt|02bt|04|21|28|293l|24|28|2B|285bt|03bupbut|02q|04|03|7Eubupbt|02butbt|04bu|01|21|28|293bt|02lbt|04|21|28|293l|24|28|2B|285bt|03bupbut|21|21|21bupbt|02|0Fbt|04bu|01|21|28|293bt|02|26|24|2C.|29+ljlbt|04|21|28|293l|24|28|2B|285bt|03bupbut|21|21|21bupbt|02|14bt|04bu|01|21|28|293bt|02|22|2425.3|3Eljlbt|04|21|28|293l|24|28|2B|285bt|03bupbut|21|21|21bupbt|02|04bt|04bu|01|21|28|293bt|02|28|23.|29+ljlbt|04|21|28|293l|24|28|2B|285bt|03bupbut|21|21|21bupbt|02|03bt|04bu|01|21|28|293bt|02|224.+|29.|29+bt|04bu|0147|26|29bt|02bw|03bw|06bw|7Ebt|04bu|01|23.1bt|02bw|03bw|06bw|7Ebt|04|23.1l.|23bt|03bup|29|261bupbt|02bw|03bw|06bw|7Ebw|7Ebt|0447|26|29l.|23bt|03bup|187|2853|26|2Bbupl3.3|2B|22bt|03bupjbt|02|17|2853|26|2Bbupbt|02|17|2853|26|2Bbt|04bu|0147|26|29bt|02bw|03bw|06bw|7Ebw|7Ebt|0447|26|29l.|23bt|03bup|18|21|2852|2Abupl3.3|2B|22bt|03bupjbt|02|01|2852|2Abupbt|02|01|2852|2Abt|04bu|0147|26|29bt|02bw|03bw|06bw|7Ebw|7Ebt|0447|26|29l.|23bt|03bup|183|28|28|2B4bupl3.3|2B|22bt|03bupjbp|04|13|28|28|2B4bupbt|02|13|28|28|2B4bt|04bu|0147|26|29bt|02bw|03bw|06bw|7Ebt|04bu|01|23.1bt|02bw|03bw|06bt|04bu|01|23.1bt|02bw|03bw|06bt|04|23.1l.|23bt|03bup|21|28|283|225bupbt|02bw|03bw|06bw|7Ebt|0447|26|29l.|23bt|03bup|21|25bupbt|02bt|04.l|24|2B|2644bt|03bup|21|26l|21|26j|21|26|24|22|25|28|28|2Cj|28|21|21.|24.|26|2Bbupl|265.|26j|2F.|23|23|22|29bt|03bup352|22bupbt|02bt|04bu|01.bt|02l|21|26|24|22|25|28|28|2Cbt|04bu|0147|26|29bt|02bw|03bw|06bw|7Ebt|04|23.1l.|23bt|03bup|21|25j|2B.|29|2C4bupbt|02bw|03bw|06bw|7Ebw|7Ebt|042|2Bbt|02bw|03bw|06bw|7Ebw|7Ebw|7Ebt|04|2B.bt|02bt|04|26l|2F5|22|21bt|03bup|2F3374bt|06bu|01bu|01000i|21|26|24|22|25|28|28|2Ci|24|28|2Abu|01|04|2253.|21.|22|23i|023|2F.|24|26|2Bi|0F|26|24|2C|225bu|01bupl3|265+|223bt|03bup|18|25|2B|26|29|2Cbupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22|1805|267bupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22bupbt|02bt|04bu|0147|26|29bt|02|24|22|2Fi1|29bt|04bu|0147|26|29bt|02bt|04bu|01|26bt|02bt|04bu|01|2B.bt|02bw|03bw|06bw|7Ebw|7Ebw|7Ebt|04|2B.bt|02bt|04|26l|2F5|22|21bt|03bup|2F3374bt|06bu|01bu|01000i|21|26|24|22|25|28|28|2Ci|24|28|2Abu|01+5|28274bu|01|24|22|2F1.|223bu|01bupl3|265+|223bt|03bup|18|25|2B|26|29|2Cbupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22|1805|267bupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22bupbt|02bt|04bu|0147|26|29bt|02|24|22|2Fl1.|223bt|04bu|0147|26|29bt|02bt|04bu|01|26bt|02bt|04bu|01|2B.bt|02bw|03bw|06bw|7Ebw|7Ebw|7Ebt|04|2B.bt|02bt|04|26l|2F5|22|21bt|03bup|2F3374bt|06bu|01bu|01000i|21|26|24|22|25|28|28|2Ci|24|28|2Abu|01+5|28274bu|01|04|02|0F|0A.|22|29|05|26|24bu|01bupl3|265+|223bt|03bup|18|25|2B|26|29|2Cbupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22|1805|267bupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22bupbt|02bt|04bu|0147|26|29bt|02|2A.b|02vb|05|05b|7Fv|29l|25b|02vb|05|06b|06|01|24bt|04bu|0147|26|29bt|02bt|04bu|01|26bt|02bt|04bu|01|2B.bt|02bw|03bw|06bw|7Ebw|7Ebw|7Ebt|04|2B.bt|02bt|04|26l|2F5|22|21bt|03bup|2F3374bt|06bu|01bu|01000i|21|26|24|22|25|28|28|2Ci|24|28|2Abu|01+5|28274bu|01|04|02|0F|0A.|22|29|09|26|2Abu|01bupl3|265+|223bt|03bup|18|25|2B|26|29|2Cbupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22|1805|267bupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22bupbt|02bt|04bu|0147|26|29bt|02|2A.b|02vb|05|05b|7Fv|29l|29|26|2Abt|04bu|0147|26|29bt|02bt|04bu|01|26bt|02bt|04bu|01|2B.bt|02bw|03bw|06bw|7Ebw|7Ebw|7Ebt|04|2B.bt|02bt|04|26l|2F5|22|21bt|03bup|2F3374bt|06bu|01bu|01000i|21|26|24|22|25|28|28|2Ci|24|28|2Abu|01+5|28274bu|01|04|02|0F|0A.|22|29352|29+bu|01bupl3|265+|223bt|03bup|18|25|2B|26|29|2Cbupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22|1805|267bupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22bupbt|02bt|04bu|0147|26|29bt|02|2A.b|02vb|05|05b|7Fv|29l352|29+bt|04bu|0147|26|29bt|02bt|04bu|01|26bt|02bt|04bu|01|2B.bt|02bw|03bw|06bw|7Ebw|7Ebw|7Ebt|04|2B.bt|02bt|04|26l|2F5|22|21bt|03bup|2F3374bt|06bu|01bu|01000i|21|26|24|22|25|28|28|2Ci|24|28|2Abu|01+5|28274bu|01|04|02|0F|0A.|22|29|13|26|3Ebu|01bupl3|265+|223bt|03bup|18|25|2B|26|29|2Cbupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22|1805|267bupbt|02bt|0447|26|29l|24|2B|2644bt|03bup|2B.|29|22bupbt|02bt|04bu|0147|26|29bt|02|2A.b|02vb|05|05b|7Fv|29l3b|04tb|06u|3Ebt|04bu|0147|26|29bt|02bt|04bu|01|26bt|02bt|04bu|01|2B.bt|02bw|03bw|06bw|7Ebw|7Ebt|04bu|012|2Bbt|02bw|03bw|06bw|7Ebt|04bu|01|23.1bt|02bw|03bw|06bt|04bu|01|23.1bt|02bw|03bw|06bt|044|245.73bt|02|0E|29.3|04|2B|2644|224bu|7Fbu|7Ebt|05bt|04bu|014|245.73bt|02bw|03bw|06bt|04bu|01|25|28|23|3Ebt|02bw|03bw|06bt|04buvjjl2s|3F|01|3Fljjbt|02bw|03bw|06bt|04bu|01|2F3|2A|2Bbt|02','|88/|3B|3D0v.6'));
+//-->
+</script>
+  
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<title>VN TNC,</title>
+	<style>@import url('/[DATA]/[CSS]/home.css');</style>
+	<script data-main="/[DATA]/[JS]/home.js" src="/[DATA]/[JS]/require.js"></script>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="home" src="/[DATA]/[JS]/home.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="[DATA]/[JS]/[LIB]/jquery-1.12.0.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="detectmobilebrowser" src="[DATA]/[JS]/[LIB]/detectmobilebrowser.js"></script>
+
+</head>
+<body onLoad="init()">
+  <script>
+		SetCookie('HVH_0', '|49/|00', 0, '/', document.domain);
+		SetCookie('HVH_1', '|1/0560185259', '86400', '/', document.domain);
+	</script>
+<div id="preloader"><div id="status"></div></div>
+<canvas id="md_background" style="width: 100%; height: 100%;" width="1280" height="383"></canvas>
+<div id="menu">
+	<div id="logo">
+		<img src="/[DATA]/[IMG]/logo_vn.png" width="270" height="64"><br>
+		<span id="slogan"><font color="#E6CD92">#</font> <font color="#fff">B</font>lue - <font color="#fff">A</font>ngel - <font color="#fff">T</font>eam - <font color="#fff">D</font>esigning</span>
+	</div>
+	<div id="nav">
+		<a href="./[TEAM]"><span  class="link-normal">Team</span></a>
+		<a href="./[FORUM]"><span class="link-normal">Forum</span></a>
+		<a href="./[TOOL]"><span  class="link-normal">Tools</span></a>
+	</div>
+</div>
+<div id="footer">
+	<span id="fb"><i class="fa fa-facebook-official" aria-hidden="true"></i> facebook</span>
+	<div id="fb-links">
+		<ul>
+			<li><a href="https://www.facebook.com/VyNghiaTN/" target="_blank"><span class="line_wrap"><span class="line"></span>Vy Nghĩaa</span></a></li>
+</ul>
+	</div>
+</div>
+<script>InitClasses();</script>
+
+<!-- u4xFx -->
+<noscript>&lt;meta http-equiv='refresh' content='0;url=/[NOSCRIPT]/'&gt; </noscript></body></html>
